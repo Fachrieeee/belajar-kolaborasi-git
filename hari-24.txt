@@ -1,0 +1,23 @@
+iff --git a/portofolio.html b/portofolio.html
+index 6280436..024376c 100644
+--- a/portofolio.html
++++ b/portofolio.html
+@@ -5,7 +5,7 @@
+     <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+-    <h1>Selamat Datang di Portofolio Saya</h1>
++    <h1>Selamat Datang di Portofolio Fachrie</h1>
+     <p>Proyek-proyek saya akan ditampilkan di sini.</p>
+ 
+     <script src="script.js"></script>
+diff --git a/profil.txt b/profil.txt
+
+diff --git a/profil.txt b/profil.txt
+index 327ee1c..aa8de54 100644
+--- a/profil.txt
++++ b/profil.txt
+@@ -1 +1,2 @@
+ Nama: Budi Programmer Handal, Hobi: Membaca Buku
++Kota: Jakarta
+\ No newline at end of file
